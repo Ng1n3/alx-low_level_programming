@@ -2,8 +2,7 @@
 
 int main(void)
 {
-	char mystring[] = "Programming is like building a multilingual puzzle \n";
-	puts(mystring);
+	puts("Programming is like building a multilingual puzzle \n");
 
 	return (0);
 }
