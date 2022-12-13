@@ -1,11 +1,20 @@
 #include <main.h>
 /**
- * main - prints the strint _putchar.
- * Rteurn - 0 on sucess
+ * main - Entry point.
+ * Description - print the string _putchar new line
+ * Return - Always 0 (suces)s
  */
-int main(voi)
+int main(void) /* Return - 0 on success*/
 {
-	putchar("_putchar\in");
-	
+	putchar("_");
+	putchar("p");
+	putchar("u");
+	putchar("t");
+	putchar("c");
+	putchar("h");
+	putchar("a");
+	putchar("r");
+	putchar("\n");
+
 	return (0);
 }
