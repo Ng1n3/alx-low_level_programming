@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <main.h>
 /**
  * main - prints the strint _putchar.
  * Rteurn - 0 on sucess
  */
 int main(voi)
 {
-	printf("_putchar\n")
+	putchar("_putchar\in");
 	
-	return (0);;
+	return (0);
 }
