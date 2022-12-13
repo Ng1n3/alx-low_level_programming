@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- * main - Entry point.
- * Description - print the string _putchar new line
- * Return - Always 0 (suces)s
+ * main - print _putchar.
+ * by Nagato
+ * Return - 0
  */
-int main(void) /* Return - 0 on success*/
+
+int main(void)
 {
 	putchar("_");
 	putchar("p");
