@@ -1,8 +1,8 @@
 #include "main.h"
 /**
 * print_last_digit - prints the three digits of a number.
-* @n: digit to find three of
-*Return: the Last digits
+* @n: digit to find the last place of.
+*Return: the Last digits.
 */
 
 int print_last_digit(int n)
