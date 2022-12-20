@@ -1,6 +1,7 @@
 #ifndef main_h
 #define main_h
 
+int _atoi(char *s);
 void print_arry(int *a, int n);
 char *_strcpy(char *dest, char *src);
 void puts2(char *str);
